@@ -35,6 +35,7 @@ Qitto uses four commands:
     $ qitto show
 
       ID      Date                    Status  Todo
+
       1       29-04-2018 16:04        Undone  push project to github
       -------------------------------------------------------------
       
@@ -46,6 +47,7 @@ Qitto uses four commands:
     $ qitto show
 
       ID      Date                    Status  Todo
+
       1       29-04-2018 16:04        Done    push project to github
       -------------------------------------------------------------
     ```
@@ -63,4 +65,4 @@ Qitto uses four commands:
 I am a consistent user of Argparser myself and will stick to using it. The reason I used Click instead of Argparser is that this project was a quick challenge with my friend so I chose click as it allows building the interface faster and at a simpler way.
 
 ### Contribute
-At this moment, I can't think of anything else that increases productivity without breaking the core concept, ease of use of the app. I'd welcome any feature that sticks to this rule (I even changed the name of the app a few time from so that the user doesn't have any trouble typing ```qitto```). Either way, you are free to make a pull request
+At this moment, I can't think of anything else that increases productivity without breaking the core concept, ease of use of the app. I'd welcome any feature that sticks to this rule (I even changed the name of the app a few time so that the user doesn't have any trouble typing ```qitto```). Either way, you are free to make a pull request
