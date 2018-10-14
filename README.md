@@ -4,7 +4,7 @@
 Qitto helps developers and people to keep track of the stuff they have to do, right in the terminal. This comes in handy if you are the type who spends a lot of time using the command line. Qitto uses 'Click', this is installed while running ```setup.py```. The script works on both Windows and Linux (I don't own a Mac, so can't guarantee that)
 
 ### What you need to do
-- Download the repository or clone it
+- Download the repository or **clone** it
 - Open your terminal and browse to the folder that contains the two scripts. Like this: 
     ```
     ./
